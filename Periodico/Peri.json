@@ -6,7 +6,7 @@
         
         "id": 1,
     "title": "imagen numero uno",
-        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/DiaAmiente.jpeg"
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/TorneoRubik.jpeg"
         
     },
     {
@@ -32,6 +32,7 @@
     {
         "id": 6,
     "title": "Ultima imagen o 6 imagen",
-        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/TorneoRubik.jpeg"
+        
+        "fuenteImage": "https://aldido.github.io/Periodico/ImagenesPrincipal/DiaAmiente.jpeg"
     }
 ]
